@@ -17,5 +17,3 @@ Some others that I would love to thank:
 * Lubien for helping me with the development
 * My drum instructor who has been supporting me
 
-
-
