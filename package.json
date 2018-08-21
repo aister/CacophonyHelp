@@ -1,0 +1,8 @@
+{
+  "packages": {
+    "win64": {
+      "url": "https://raw.githubusercontent.com/aister/Cacophony/master/dist/win64.zip"
+    }
+  },
+  "version": "1.0.2"
+}
